@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dave Algebra Class</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dave Algebra Class</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <h1>Explore</h1>
+            <nav>
+                <ul>
+                    <li><a href="#"><b>Name:</b>Krishna Angela C. Espiritu</a></li>
+                    <li><a href="#"><b>Section:</b>8-St. Catherine of Sienna</a></li>
+                    <li><a href="#"><b>Submitted to:</b>Sir Christopher Magdayo</a></li>
+                    <li><a href="#"><i>Have fun!:3</i></a></li>
+                    <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2259.jpeg" alt="dave smile" width="100" height="100">
+                    <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2260.jpeg" alt="wow dave with robot hands" width="100" height="100">
+                    <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2261.jpeg" alt="dave crossing his arms" width="100" height="100">
+                    <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2262.jpeg" alt="eek! surprised dave" width="100" height="100">
+                    <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2263.jpeg" alt="awesome dave" width="100" height="100">
+                    <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2264.jpeg" alt="blushing dave" width="100" height="100">
+                    <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2265.jpeg" alt="scared dave ohno" width="100" height="100">
+                    <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2266.jpeg" alt="smirk dave" width="100" height="100">
+                    <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2268.jpeg" alt="deadpanned dave" width="100" height="100">
+                    <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2269.jpeg" alt="??? dave" width="100" height="100">
+                </ul>
+            </nav>
+        </div>
+        
+        <!-- Main Content -->
+        <div class="main-content">
+            <header>
+                <h1>Dave Algebra Class</h1>
+                <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2271.webp" alt="dave speaking" width="50" height="48"> <p><i>"Hey Bambi, it's Dave... Is there a chance you are currently fighting two equally as short 'Trespassers' over corn right now?"</i></p> <b><i>-Dave, Corn theft</i></b>
+            </header>
+
+            <div class="character-details">
+                <section class="character-info">
+                    <img src="https://uploads.onecompiler.io/4464f383w/4464n5vdg/IMG_2252.webp" alt="Dave Algebra Class"> <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2270.webp">
+                    <div class="details">
+                        <h2>Appearance</h2>
+                        <p>Dave has the appearance of a very young adult, in his 20s with a round head (and skull).He has almost shaved brown hair with round bangs on the sides and also round eyes with black pupils, black lines near his forehead, and hair that serves as eyebrows, along with a simple but wide grin.He wears a blue set of long-sleeved clothing, consisting of a medium-colored shirt and dark-colored pants. Due to an scientific experiment, Dave lost the rest of his legs that come just after his shins, having dark metal lozenge-shaped plates as replacements, in addition to always sitting in a black and light gray wheelchair. He keeps his left hand closed on his waist, while his right hand is bent forward, and holding a microphone. Dave's icons show his head with a smile and a blue color. In the defeat, he is shown with his eyebrows having an X shape in place of pupils, and showing his teeth clenched.</p>
+                        <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2280.webp" alt="dave icons" width="50" height="50">
+                    </div>
+                </section>
+            </div>
+
+            <!-- Biography Section -->
+            <section class="biography">
+        
+                </ul>
+            </section>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+<body>
+    <div class="container">
+        <table class="character-table">
+            <thead>
+                <tr>
+                    <th>Category</th>
+                    <th>Details</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><b>Aliases</b></td>
+                    <td>Dave</td>
+                </tr>
+                <tr>
+                    <td><b>Relatives</b></td>
+                    <td>Tristan <i>(adoptive son)</i>, PlayRobot <i>(robot daughter)</i></td>
+                </tr>
+                <tr>
+                    <td><b>Relationships</b></td>
+                    <td>Bambi <i>(best friend, found family)</i>, Muko <i>(best friend)</i>, Carl <i>(friend)</i>, Juan <i>(friend)</i>, Boyfriend <i>(friend)</i>, Girlfriend <i>(friend)</i>, David <i>(nuisance)</i></td>
+                </tr>
+                <tr>
+                    <td><b>Affiliation</b></td>
+                    <td>Fort Geraldson Elementary and Middle School, Unnamed scientific place <i>(formerly)</i></td>
+                </tr>
+                <tr>
+                    <td><b>Occupation</b></td>
+                    <td>Substitute, Scientist <i>(formerly)</i></td>
+                </tr>
+                <tr>
+                    <td><b>Biographical Information</b></td>
+                    <td><b><i>Sexuality:</i></b> Heterosexual, <b><i>Age:</i></b> 29, <b><i>Place of Birth:</i></b> Georgia, USA, <b><i>Birthday:</i></b> June 20, <b><i>Status:</i></b> Alive</td>
+                </tr>
+                <tr>
+                    <td><>Physical Description</></td>
+                    <td><b><i>Species:</i></b> Human, <b><i>Gender:</i></b> Male (He/Him), <b><i>Height:</i></b> 5'7", <b><i>Eye color:</i></b> Black, <b><i>Hair color:</i></b> Brown (Shingle Fawn)</td>
+                </tr>
+                <tr>
+                    <td><b>Appearances</b></td>
+                    <td><b><i>Created by:</i></b> MoldyGH, <b><i>Appears in:</i></b> Dave's Fun Algebra Class <i>(Baldi's Basics Mod)</i>, Dave's Fun Algebra Class 2: The Future is Here! <i>(Baldi's Basics Mod)</i>, Dave's Dream <i>(Baldi's Basics Mod)</i>, Dave's House, Vs. Dave and Bambi <i>(Friday Night Funkin' mod)</i>, Dave's Fun Algebra Class: Remastered</td>
+                </tr>
+                <tr>
+                    <td><b>Debut</b></td>
+                    <td>Dave's Fun Algebra Class <i>(Baldi's Basics Mod)</i></td>
+                </tr>
+            </tbody>
+        </table>
+    </div> 
+</body>
+</html>
+>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Asset Gallery Section -->
+    <section class="gallery">
+        <h1>Click on an Asset to View More!(hyperlink)</h1>
+        
+        
+        
+
+        <!-- Asset 1 (Static Idle) -->
+        <div class="asset">
+            <a href="https://youtu.be/dQw4w9WgXcQ?si=ZBvYbBhQ6GOe_9xe" target="_blank">
+                <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2255.webp" alt="Static Idle Asset">
+            </a>
+            <p>Static Idle Pose</p>
+        </div>
+
+        <!-- Asset 2 (Pose) -->
+        <div class="asset">
+            <a href="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2256.webp" target="_blank">
+                <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2256.webp" alt="Pose Asset">
+            </a>
+            <p>Pose</p>
+        </div>
+
+        <!-- Asset 3 (Left Pose) -->
+        <div class="asset">
+            <a href="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2257.webp" target="_blank">
+                <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2257.webp" alt="Left Pose Asset">
+            </a>
+            <p>Left Pose</p>
+        </div>
+
+        <!-- Asset 4 (Down Pose) -->
+        <div class="asset">
+            <a href="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2258.webp" target="_blank">
+                <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2258.webp" alt="Down Pose Asset">
+            </a>
+            <p>Down Pose</p>
+        </div>
+
+        <!-- Asset 5 (Up Pose) -->
+        <div class="asset">
+            <a href="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2272.webp" target="_blank">
+                <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2272.webp" alt="Up Pose Asset">
+            </a>
+            <p>Up Pose</p>
+        </div>
+
+        <!-- Asset 6 (Left Pose) -->
+        <div class="asset">
+            <a href="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2273.webp" target="_blank">
+                <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2273.webp" alt="Right Pose Asset">
+            </a>
+            <p>Right Pose</p>
+        </div>
+
+              <!-- Asset 7 (V-sign Pose) -->
+        <div class="asset">
+            <a href="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2279.webp" target="_blank">
+                <img src="https://uploads.onecompiler.io/4464f383w/4464rcs57/IMG_2279.webp" alt="V-sign Pose Asset">
+            </a>
+            <p>V-sign Pose</p>
+        </div>
+
+
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
